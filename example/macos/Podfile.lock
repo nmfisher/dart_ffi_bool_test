@@ -1,0 +1,22 @@
+PODS:
+  - ffi_bool_test (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - ffi_bool_test (from `Flutter/ephemeral/.symlinks/plugins/ffi_bool_test/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  ffi_bool_test:
+    :path: Flutter/ephemeral/.symlinks/plugins/ffi_bool_test/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  ffi_bool_test: fb7e8b73284f72ecd8037d35152151f7a2c45bc0
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.12.1
